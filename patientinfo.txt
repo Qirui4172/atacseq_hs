@@ -1,0 +1,6 @@
+Patient Month   FusionGene  ActivatingMut    MutationDetail
+1D  lessthan3 KMT2A_MLLT10  RAS NRAS_G13D
+3D  morethan3 KMT2A_AFF1    RAS KRAS_G12D
+46D morethan3 KMT2A_MLLT1   NONE    NONE
+48D lessthan3 KMT2A_AFF1    RAS NRAS_G13D+KRAS_G12D
+50D lessthan3 KMT2A_AFF1    NONE    NONE
